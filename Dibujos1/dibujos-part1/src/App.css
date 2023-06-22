@@ -1,3 +1,10 @@
+:root {
+  --skin-color:#FBCCB5;
+  --skin-shadow-color:#F3BAA0;
+  --capucha-color:#833F9F;
+}
+
+
 .container{
   display: flex;
   justify-content: center;
